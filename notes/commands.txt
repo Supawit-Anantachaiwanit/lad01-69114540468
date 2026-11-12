@@ -1,0 +1,19 @@
+ python3 --version
+  git --version
+  git config --global user.name "Supawit-Anantachaiwanit"
+  git config --global user.email "supawit.an.69@ubu.ac.th"
+  ssh-keygen -t ed25519 -C "supawit.an.69@ubu.ac.th"
+  cat
+  cat ~/.ssh/id_ed25519.pub
+  git clone git@github.com
+  git clone git@github.com:Supawit-Anantachaiwanit/Lab01-69114540468.git
+  git@github.com:Supawit-Anantachaiwanit/lad01-69114540468.git
+  git clone git@github.com:Supawit-Anantachaiwanit/lad01-69114540468.git
+  git clone https://github.com/Supawit-Anantachaiwanit/lad01-69114540468.git
+  ls
+  cd lad01-69114540468
+  mkdir notes data
+  touch notes/commands.txt
+  touch main.py
+  pwd
+  python3 main.py
