@@ -16,7 +16,7 @@ def is_pass(score):
 
 
 def average(scores):
-    return sum(scores) / len(scores) if scores else 0
+    return round(sum(scores) / len(scores), 2) if scores else 0
 
 
 
